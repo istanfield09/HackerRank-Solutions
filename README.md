@@ -5,5 +5,7 @@
 <h4>Bitwise.rb</h4>is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/maximizing-xor">Maximizing XOR</a>". It takes two integers and finds the maximum XOR value between them.<br />
 <h4>Change.rb</h4>is a solution to a nearly ubiquous code challenge found all over the web. It takes a given quantity of change and returns the optimal quantity of each coin to form the specified quantity.<br />
 <h4>Chocolate.rb</h4>is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/chocolate-feast">Chocolate Feast</a>". It's problem statement is as follows: _Little Bob loves chocolates, and goes to a store with $N in his pocket. The price of each chocolate is $C. The store offers a discount: for every M wrappers he gives to the store, he gets one chocolate for free. How many chocolates does Bob get to eat?_
+<h4>Hallow.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/halloween-party">Halloween Party</a>". It finds the maximum number of 1x1 chocolate squares that can be created by cutting a chocolate bar N times.
+
 
 

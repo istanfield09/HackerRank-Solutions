@@ -7,6 +7,7 @@
 <h4>Chocolate.rb</h4>is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/chocolate-feast">Chocolate Feast</a>". It's problem statement is as follows: _Little Bob loves chocolates, and goes to a store with $N in his pocket. The price of each chocolate is $C. The store offers a discount: for every M wrappers he gives to the store, he gets one chocolate for free. How many chocolates does Bob get to eat?_
 <h4>Hallow.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/halloween-party">Halloween Party</a>". It finds the maximum number of 1x1 chocolate squares that can be created by cutting a chocolate bar N times.<br />
 <h4>Newp.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/the-love-letter-mystery">The Love-Letter Mystery</a>". It finds the minimum number of operations required to convert a string of characters into a palindrome if the characters can only be incremented upwards towards the letter "a". **Palindrome.rb** is a failed solution to this problem that I like to keep around. : )<br />
+<h4>Thrones.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/game-of-thrones">Game of Thrones - I</a>". It determines whether or not a given string of characters is an anagram of a palindrome.<b />
 
 
 

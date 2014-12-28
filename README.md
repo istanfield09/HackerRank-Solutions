@@ -9,7 +9,7 @@
 <h4>Newp.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/the-love-letter-mystery">The Love-Letter Mystery</a>". It finds the minimum number of operations required to convert a string of characters into a palindrome if the characters can only be incremented upwards towards the letter "a". **Palindrome.rb** is a failed solution to this problem that I like to keep around. : )<br />
 <h4>Thrones.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/game-of-thrones">Game of Thrones - I</a>". It determines whether or not a given string of characters is an anagram of a palindrome.<br />
 <h4>Utopiantree.rb</h4> is a solution to the challenge titled "<a href = "https://www.hackerrank.com/challenges/utopian-tree">Utopian Tree</a>". It determines the height a tree has grown after a certain number of alternating growth cycles.<br />
-<h4>Manasa.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/manasa-and-stones">Manasa and Stones</a> It finds the terminating stone (the sum) of alternating combinations of stones.<br />
+<h4>Manasa.rb</h4> is a solution to the challenge titled "<a href="https://www.hackerrank.com/challenges/manasa-and-stones">Manasa and Stones</a>". It finds the terminating stone (the sum) of alternating combinations of stones.<br />
 
 
 

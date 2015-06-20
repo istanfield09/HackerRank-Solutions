@@ -1,3 +1,0 @@
-def facePunch
-  gooses
-end
